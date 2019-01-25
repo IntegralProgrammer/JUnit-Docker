@@ -1,4 +1,4 @@
-#JUnit-Docker
+# JUnit-Docker
 
 Creates a Docker container based on Fedora for running JUnit tests for the course SOFE3980 - Software Quality
 
